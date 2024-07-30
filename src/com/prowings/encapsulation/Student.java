@@ -1,5 +1,13 @@
 package com.prowings.encapsulation;
 
+/**
+ * lkadsjhflksgf
+ * AJSDKASJDHFKDSHF
+ * slkdjflkdsjflksjf
+ * 
+ * @author Jaydeep Mohite
+ * 
+ */
 public class Student {
 	
 	private int rollNo;
@@ -8,6 +16,20 @@ public class Student {
 	public int getRollNo() {
 		return rollNo;
 	}
+	
+	/**
+	 * This is a method to calculate Grades based on marks
+	 * 
+	 * @param marks - marks must be of int type
+	 * @return this method returns Grade in String format
+	 * @exception This method can throws ArithMaticException
+	 */
+	public String calculateGrade(int marks) throws ArithmeticException
+	{
+		//some logic
+		return "";
+	}
+	
 	public void setRollNo(int rollNo) {
 		this.rollNo = rollNo;
 	}

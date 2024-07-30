@@ -11,7 +11,10 @@ public class TestEncapsulation {
 		s.setMarks(98);
 		
 		System.out.println(s);
+		s.calculateGrade(200);
+		s.equals(s);
 		
+		System.out.println(s.hashCode());
 	}
 
 }
