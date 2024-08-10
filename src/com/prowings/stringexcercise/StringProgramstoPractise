@@ -1,0 +1,23 @@
+Here are 10 String exercises in Java to help you practice:
+
+1. Reverse a String: Write a method that takes a string as input and returns the string reversed. For example, "hello" should become "olleh".
+
+2. Check for Palindrome: Write a method to check if a given string is a palindrome. A palindrome reads the same backward as forward, e.g., "madam" or "racecar".
+
+3. Count Vowels and Consonants: Write a method that takes a string and returns the number of vowels (a, e, i, o, u) and consonants in the string.
+
+4. Find the First Non-Repeated Character: Write a method that returns the first non-repeated character in a string. For example, in the string "swiss", the first non-repeated character is "w".
+
+5. Remove Duplicate Characters: Write a method to remove duplicate characters from a string. For example, "programming" should become "progamin".
+
+6. Count Words in a String: Write a method that counts the number of words in a string. Assume that words are separated by spaces.
+
+7. Check if Two Strings are Anagrams: Write a method to determine if two strings are anagrams of each other. Two strings are anagrams if they contain the same characters in different orders, e.g., "listen" and "silent".
+
+8. Replace Spaces with a Given Character: Write a method that replaces all spaces in a string with a given character. For example, replacing spaces with dashes in "hello world" would result in "hello-world".
+
+9. Find the Longest Word in a String: Write a method that finds and returns the longest word in a given string. If there are multiple words of the same length, return the first one.
+
+10.Check if a String Contains Only Digits: Write a method that checks if a string contains only digits. For example, "12345" should return true, while "123a5" should return false.
+
+These exercises will help you build a strong foundation in working with strings in Java.
